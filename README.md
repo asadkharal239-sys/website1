@@ -1,7 +1,7 @@
 # website1
-This is my website
+Asad Kharal.io — رلے ملے دی گالھ
 Description:
-here you will find the discription
+Ask anything — questions, ideas, translations, code. Press Enter to send · Shift+Enter for new line. A space for honest, mixed conversations without filters.
 link:
 here you have to put the link
 screenshots of the website:
